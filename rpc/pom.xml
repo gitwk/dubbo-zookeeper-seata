@@ -10,8 +10,7 @@
     </parent>
     <groupId>com.wk</groupId>
     <artifactId>seata-rpc</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>seata-rpc</name>
+    <version>0.0.1</version>
 
     <properties>
         <java.version>1.8</java.version>
